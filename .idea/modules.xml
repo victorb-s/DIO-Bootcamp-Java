@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Bootcamp-Java.iml" filepath="$PROJECT_DIR$/Bootcamp-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modulo 00 - Projetos/Modulo 00 - Projetos.iml" filepath="$PROJECT_DIR$/Modulo 00 - Projetos/Modulo 00 - Projetos.iml" />
       <module fileurl="file://$PROJECT_DIR$/Modulo_01 - Introducao/Modulo_01 - Introducao.iml" filepath="$PROJECT_DIR$/Modulo_01 - Introducao/Modulo_01 - Introducao.iml" />
     </modules>
   </component>
