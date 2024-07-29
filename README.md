@@ -2,6 +2,9 @@
 
 Repositório desenvolvido para armazenamento de todos os códigos desenvolvidos durante minha trilha de aprendizagem no bootcamp "Java com Spring Boot" da empresa DIO em parceria com a Claro, oferecendo uma formação gratuita e completa, do básico de java até a utilização de um dos mais famosos frameworks da linguagem, preparando diretamente para o mercado de trabalho.
 
+Durante esta trilha, tive a oportunidade de conhecer e me familiarizar com a IDE mais famosa para desenvolvimento de Java, a Intellij, uma IDE amplamente sofisticada, com diversas funções que auxiliam imensamente na construção de códigos quando bem trabalhada. Aproveitei também para exercitar minhas habilidades com Git em IDEs e fiz deste repositório, um repositório síncrono com meu desenvolvimento durante o curso, estando em constante modificação ao longo das aulas.
+
+- Intellij
 - Java
 - Spring Boot
   
