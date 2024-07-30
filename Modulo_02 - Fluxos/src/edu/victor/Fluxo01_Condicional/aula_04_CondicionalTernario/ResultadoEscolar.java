@@ -1,4 +1,4 @@
-package edu.victor.aula_04_CondicionalTernario;
+package edu.victor.Fluxo01_Condicional.aula_04_CondicionalTernario;
 
 public class ResultadoEscolar {
     public static void main(String[] args) {

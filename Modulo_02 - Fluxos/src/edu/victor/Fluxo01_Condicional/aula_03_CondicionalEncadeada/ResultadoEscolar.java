@@ -1,4 +1,4 @@
-package edu.victor.aula_03_CondicionalEncadeada;
+package edu.victor.Fluxo01_Condicional.aula_03_CondicionalEncadeada;
 
 public class ResultadoEscolar {
     public static void main(String[] args) {

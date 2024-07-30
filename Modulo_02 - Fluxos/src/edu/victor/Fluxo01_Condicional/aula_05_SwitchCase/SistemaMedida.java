@@ -1,4 +1,4 @@
-package edu.victor.aula_05_SwitchCase;
+package edu.victor.Fluxo01_Condicional.aula_05_SwitchCase;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package edu.victor.aula_01_CondicionalComposta;
+package edu.victor.Fluxo01_Condicional.aula_01_CondicionalComposta;
 
 import java.util.*;
 
