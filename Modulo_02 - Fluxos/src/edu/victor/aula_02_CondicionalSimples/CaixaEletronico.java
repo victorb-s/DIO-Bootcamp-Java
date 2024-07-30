@@ -1,4 +1,4 @@
-package edu.victor.aula_01_CondicionalSimples;
+package edu.victor.aula_02_CondicionalSimples;
 
 public class CaixaEletronico {
     public static void main(String[] args) {
