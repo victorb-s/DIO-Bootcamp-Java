@@ -1,4 +1,4 @@
-package edu.victor.ProcessoSeletivo;
+package edu.victor.p02_ProcessoSeletivo;
 
 import java.util.Random;
 import java.util.concurrent.ThreadLocalRandom;
