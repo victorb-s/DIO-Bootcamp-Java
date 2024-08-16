@@ -6,15 +6,15 @@ public class Estudante {
     String nome;
     int idade;
     Color color;
-    Sex sex;
+//    Sex sex;
 
-    void eating(Food food){
-        // Código
-    }
+//    void eating(Food food){
+//        // Código
+//    }
 
-    void drinking(Eat eat){
-        // Código
-    }
+//    void drinking(Eat eat){
+//        // Código
+//    }
 
     void running(){
         // Código
