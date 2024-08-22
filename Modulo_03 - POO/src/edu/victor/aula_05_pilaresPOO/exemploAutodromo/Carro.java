@@ -1,4 +1,4 @@
-package edu.victor.aula_05_pilaresPOO;
+package edu.victor.aula_05_pilaresPOO.exemploAutodromo;
 
 // Herança = classes filhas estendendo da classe pai
 public class Carro extends Veiculo{

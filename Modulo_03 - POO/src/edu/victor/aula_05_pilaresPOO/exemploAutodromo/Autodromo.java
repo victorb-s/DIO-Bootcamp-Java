@@ -1,4 +1,4 @@
-package edu.victor.aula_05_pilaresPOO;
+package edu.victor.aula_05_pilaresPOO.exemploAutodromo;
 
 public class Autodromo {
     public static void main(String[] args) {

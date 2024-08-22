@@ -1,4 +1,4 @@
-package edu.victor.aula_05_pilaresPOO;
+package edu.victor.aula_05_pilaresPOO.exemploAutodromo;
 
 // Classe pai na herança
 public abstract class Veiculo {
