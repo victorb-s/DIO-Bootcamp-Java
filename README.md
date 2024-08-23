@@ -5,7 +5,7 @@ Repositório desenvolvido para armazenamento de todos os códigos desenvolvidos 
 Durante esta trilha, tive a oportunidade de conhecer e me familiarizar com a IDE mais famosa para desenvolvimento de Java, a Intellij, uma IDE amplamente sofisticada, com diversas funções que auxiliam imensamente na construção de códigos quando bem trabalhada. Aproveitei também para exercitar minhas habilidades com Git em IDEs e fiz deste repositório, um repositório síncrono com meu desenvolvimento durante o curso, estando em constante modificação ao longo das aulas.
 
 - Intellij
-- Java
+- Java 22
 - Spring Boot
   
 <div style="display: inline_block"><br>
@@ -33,4 +33,6 @@ Feito com ❤️ por Victor Barbosa 👋🏽 Entre em contato!
 
 <br>
 
-## Em construção...
+Além do projeto principal do bootcamp, desenvolvemos alguns pequenos projetos, entre eles, a tarefa de criar um diagrama UML do iPhone:
+
+![UML - Iphone](https://github.com/user-attachments/assets/866b0336-7939-4dd2-acab-4841a698b339)
