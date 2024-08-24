@@ -1,4 +1,4 @@
-package edu.victor.generics;
+package edu.victor.aula_01_generics;
 
 import java.util.*;
 
