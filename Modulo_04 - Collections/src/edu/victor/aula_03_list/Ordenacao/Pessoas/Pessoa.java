@@ -1,4 +1,4 @@
-package edu.victor.aula_03_list.Ordenacao;
+package edu.victor.aula_03_list.Ordenacao.Pessoas;
 
 import java.util.Comparator;
 

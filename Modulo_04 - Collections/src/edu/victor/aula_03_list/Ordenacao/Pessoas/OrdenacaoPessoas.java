@@ -1,4 +1,4 @@
-package edu.victor.aula_03_list.Ordenacao;
+package edu.victor.aula_03_list.Ordenacao.Pessoas;
 
 import java.util.*;
 
@@ -6,7 +6,16 @@ public class OrdenacaoPessoas {
     private List<Pessoa> listaPessoas;
 
     public static void main(String[] args) {
+        OrdenacaoPessoas ordenacaoPessoas = new OrdenacaoPessoas();
+        ordenacaoPessoas.adicionarPessoa("Nome 1", 20, 1.56);
+        ordenacaoPessoas.adicionarPessoa("Nome 2", 30, 1.80);
+        ordenacaoPessoas.adicionarPessoa("Nome 3", 25, 1.70);
+        ordenacaoPessoas.adicionarPessoa("Nome 4", 18, 1.56);
 
+        System.out.println(ordenacaoPessoas.listaPessoas);
+
+        System.out.println(ordenacaoPessoas.ordenarPorIdade());
+        System.out.println(ordenacaoPessoas.ordenarPorAltura());
     }
 
     public OrdenacaoPessoas() {
