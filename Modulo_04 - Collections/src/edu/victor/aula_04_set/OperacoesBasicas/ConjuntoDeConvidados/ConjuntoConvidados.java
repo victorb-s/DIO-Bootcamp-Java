@@ -1,4 +1,4 @@
-package edu.victor.aula_04_set.OperacoesBasicas;
+package edu.victor.aula_04_set.OperacoesBasicas.ConjuntoDeConvidados;
 
 import java.util.*;
 
