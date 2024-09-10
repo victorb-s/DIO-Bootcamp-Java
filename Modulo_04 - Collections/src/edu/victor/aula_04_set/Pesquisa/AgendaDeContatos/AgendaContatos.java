@@ -1,4 +1,4 @@
-package edu.victor.aula_04_set.Pesquisa;
+package edu.victor.aula_04_set.Pesquisa.AgendaDeContatos;
 
 import java.util.*;
 
