@@ -1,4 +1,4 @@
-package edu.victor.aula_04_set.Ordenacao;
+package edu.victor.aula_04_set.Ordenacao.CadastroDeProdutos;
 
 import java.util.Comparator;
 import java.util.Objects;
